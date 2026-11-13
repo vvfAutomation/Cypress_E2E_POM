@@ -1,0 +1,12 @@
+{
+  "name": "Vlad_QA",
+  "first_name": "Vladyslav",
+  "last_name": "Vasylevskyi",
+  "email": "hello@gmail.com",
+  "password": "12345678",
+  "address": "Cenral park 15",
+  "city": "Los Angeles",
+  "state": "California",
+  "zipcode": "00015",
+  "mobilephone": "+012345678"
+}
